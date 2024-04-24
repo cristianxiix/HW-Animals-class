@@ -1,0 +1,14 @@
+
+#include "classes.h"
+int main()
+{
+    Cat c1;
+    c1.purr();
+    c1.catchMice(5);
+
+
+
+
+
+    return 0;
+}
